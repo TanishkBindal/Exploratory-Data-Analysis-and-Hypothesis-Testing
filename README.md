@@ -111,18 +111,7 @@ The key business insight is that encouraging customers to pay with credit cards 
 
 <br />
 
-<div align="center">
-<h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
-</h3> 
-
-  
-  <p align="center">
-  <img src='https://github.com/TanishkBindal/TanishkBindal/blob/main/WhatsApp%20Image%202025-07-09%20at%2018.00.40_e3665474.jpg?raw=true' alt='linktree' height='40'>&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/tanishk-bindal" target="_blank"><img alt="LinkedIn" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-189-721962.png?f=webp&w=256"></a> &nbsp&nbsp&nbsp
-  <a href="mailto:tanishkbindal@gmail.com" target="_blank"><img alt="Gmail" width="35px" src="https://github.com/TanishkBindal/TanishkBindal/raw/main/assets/socials/gmail.png"></a>&nbsp&nbsp&nbsp
-
-  
-  <p align="right">(<a href="#top">Back to top</a>)</p>
+ <p align="right">(<a href="#top">Back to top</a>)</p>
 </p> 
 
 
