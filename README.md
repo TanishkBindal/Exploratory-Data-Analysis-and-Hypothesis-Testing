@@ -7,7 +7,7 @@ This project's main goal is to run an A/B test to examine the relationship betwe
 ## 🤔 Problem Statement
 In the fast-paced taxi booking sector, making the most of revenue is essential for long-term success and driver happiness. Our goal is to use data-driven insights to maximise revenue streams for taxi drivers in order to meet this need. Our research aims to determine whether payment methods have an impact on fare pricing by focusing on the relationship between payment type and fare amount.
 
-## 🛠️ Tools and Technologies 
+## 🛠️ Tools and Technologies Used
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -117,7 +117,7 @@ The key business insight is that encouraging customers to pay with credit cards 
 
   
   <p align="center">
-    <a href="https://www.github.com/TanishkBindal" target="_blank" rel="noreferrer"><img alt="Github" width="37px" src="https://github.com/TanishkBindal/TanishkBindal/raw/main/assets/socials/github.png"></a> &nbsp&nbsp&nbsp
+  <img src='https://github.com/TanishkBindal/TanishkBindal/blob/main/WhatsApp%20Image%202025-07-09%20at%2018.00.40_e3665474.jpg?raw=true' alt='linktree' height='40'>&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/tanishk-bindal" target="_blank"><img alt="LinkedIn" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-189-721962.png?f=webp&w=256"></a> &nbsp&nbsp&nbsp
   <a href="mailto:tanishkbindal@gmail.com" target="_blank"><img alt="Gmail" width="35px" src="https://github.com/TanishkBindal/TanishkBindal/raw/main/assets/socials/gmail.png"></a>&nbsp&nbsp&nbsp
 
