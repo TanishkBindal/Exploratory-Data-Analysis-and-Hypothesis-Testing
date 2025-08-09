@@ -116,10 +116,9 @@ The key business insight is that encouraging customers to pay with credit cards 
 </h1> 
 <p align="center">
  
-<a href="https://linkedin.com/in/tanishk bindal" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="ashutosh mishra" height="80" width="50" /></a>
- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TanishkBindal)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishkbindal)
-[<img src = "https://static.vecteezy.com/system/resources/previews/066/118/531/non_2x/linktree-circle-logo-icon-linktree-app-editable-transparent-background-premium-social-media-design-for-digital-download-free-png.png" width ="60" height ="120" align = "center" style= "postion:relative">](https://linktr.ee/tanishkbindal)
+ [<img src = "https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_640.png" width ="60" height ="60" align = "center" style= "postion:relative">](https://github/TanishkBindal)&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1024px-LinkedIn_icon_circle.svg.png" width ="60" height ="100" align = "center" style= "postion:relative">](https://linkdin/tanishkbindal)
+[<img src = "https://static.vecteezy.com/system/resources/previews/066/118/531/non_2x/linktree-circle-logo-icon-linktree-app-editable-transparent-background-premium-social-media-design-for-digital-download-free-png.png" width ="90" height ="300" align = "center" style= "postion:relative">](https://linktr.ee/tanishkbindal)
 
  
  <p align="right">(<a href="#top">Back to top</a>)</p>
