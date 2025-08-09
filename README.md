@@ -117,7 +117,7 @@ The key business insight is that encouraging customers to pay with credit cards 
 <p align="center">
  
  [<img src = "https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_640.png" width ="60" height ="60" align = "center" style= "postion:relative">](https://github.com/TanishkBindal)&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1024px-LinkedIn_icon_circle.svg.png" width ="60" height ="100" align = "center" style= "postion:relative">](https://linkdin.com/in/tanishk-bindal)
+[<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1024px-LinkedIn_icon_circle.svg.png" width ="60" height ="100" align = "center" style= "postion:relative">](https://www.linkedin.com/in/tanishk-bindal)
 [<img src = "https://static.vecteezy.com/system/resources/previews/066/118/531/non_2x/linktree-circle-logo-icon-linktree-app-editable-transparent-background-premium-social-media-design-for-digital-download-free-png.png" width ="90" height ="300" align = "center" style= "postion:relative">](https://linktr.ee/tanishkbindal)
 
  
