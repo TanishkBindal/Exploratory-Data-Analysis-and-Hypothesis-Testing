@@ -96,7 +96,7 @@ long trip distance.
 
 
 
-## 💻 How to run the Project ?<br>
+## 💻 Usage<br>
 **To replicate the analysis, take the following Steps :**<br>
 
 → Clone this repository to your local machine.<br>
