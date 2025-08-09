@@ -112,8 +112,8 @@ The key business insight is that encouraging customers to pay with credit cards 
 <br />
 
  <div align="center">
-<h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
-</h3> 
+<h1> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
+</h1> 
 <p align="center">
  
 <a href="https://linkedin.com/in/tanishk bindal" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="ashutosh mishra" height="80" width="50" /></a>
