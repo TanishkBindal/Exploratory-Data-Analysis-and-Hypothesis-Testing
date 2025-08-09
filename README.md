@@ -116,10 +116,11 @@ The key business insight is that encouraging customers to pay with credit cards 
 </h3> 
 <p align="center">
  
+<a href="https://linkedin.com/in/tanishk bindal" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="ashutosh mishra" height="80" width="50" /></a>
  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TanishkBindal)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishkbindal)
-[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/tanishkbindal)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanishkbindal@gmail.com)
+[<img src = "https://static.vecteezy.com/system/resources/previews/066/118/531/non_2x/linktree-circle-logo-icon-linktree-app-editable-transparent-background-premium-social-media-design-for-digital-download-free-png.png" width ="60" height ="120" align = "center" style= "postion:relative">](https://linktr.ee/tanishkbindal)
+
  
  <p align="right">(<a href="#top">Back to top</a>)</p>
 </p> 
