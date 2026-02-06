@@ -5,8 +5,8 @@
 This project's main goal is to run an A/B test to examine the relationship between the total fare and the method of payment. We use Python hypothesis testing and descriptive statistics to extract useful information that can help taxi drivers generate more cash. In particular, we want to find out if there is a big difference in the fares for those who pay with credit cards versus those who pay with cash.
 
 ## Table of Contents
-- [ 🤔 Problem Statement](#🤔-problem-statement)
-- [ 🛠️ Tools and Technologies Used](#🛠️-tools-and-technologies-used)
+- [Problem Statement](#problem-statement)
+- [Tools and Technologies Used](#tools-and-technologies-used)
 - [ETL Process](#etl-process)
 - [Data Analysis](#data-analysis)
 - [Queries](#queries)
