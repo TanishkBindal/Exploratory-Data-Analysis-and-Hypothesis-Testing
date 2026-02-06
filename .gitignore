@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Data files (optional – recommended)
+*.csv
+*.xlsx
+
+# OS files
+.DS_Store
+Thumbs.db
