@@ -7,16 +7,16 @@ This project's main goal is to run an A/B test to examine the relationship betwe
 ## Table of Contents
 - [Problem Statement](#problem-statement)
 - [Tools and Technologies Used](#tools-and-technologies-used)
-- [ETL Process](#etl-process)
-- [Data Analysis](#data-analysis)
-- [Queries](#queries)
+- [Steps Performed](#steps-performed)
+- [Key Insights](#key-insights)
+- [Usage](#usage)
 - [Conclusion](#conclusion)
 
 
-## 🤔 Problem Statement
+## Problem Statement
 In the fast-paced taxi booking sector, making the most of revenue is essential for long-term success and driver happiness. Our goal is to use data-driven insights to maximise revenue streams for taxi drivers in order to meet this need. Our research aims to determine whether payment methods have an impact on fare pricing by focusing on the relationship between payment type and fare amount.
 
-## 🛠️ Tools and Technologies Used
+## Tools and Technologies Used
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)&nbsp;
@@ -26,7 +26,7 @@ In the fast-paced taxi booking sector, making the most of revenue is essential f
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)&nbsp;
 
 
-## 📊 Steps Performed
+## Steps Performed
 🔹**Data Loading and Initial Exploration -**
 
 • Imported required libraries: pandas, matplotlib, seaborn, scipy.stats, statsmodels, warnings.<br>
@@ -97,7 +97,7 @@ In the fast-paced taxi booking sector, making the most of revenue is essential f
   → If p < 0.05 : Reject Null Hypothesis → Significant difference in fare based on payment type.<br>
   → Else : Accept Null Hypothesis → No significant difference.<br>
 
-## 🔑 Key Insights<br>
+## Key Insights<br>
 • Customers paying with cards tend to have a slightly higher average trip distance and fare amount
 compared to those paying with cash.<br>
 
@@ -106,7 +106,7 @@ long trip distance.
 
 
 
-## 💻 Usage<br>
+## Usage<br>
 **To replicate the analysis, take the following Steps :**<br>
 
 → Clone this repository to your local machine.<br>
@@ -115,7 +115,7 @@ long trip distance.
 → Run the Jupyter notebooks in the `notebooks/` directory to perform data analysis and extract information.<br>
 → Review the results and conclusions drawn from the EDA and hypothesis testing.<br>
 
-## 📝 Conclusion 
+## Conclusion 
 Through comprehensive EDA and hypothesis testing, it is concluded that there is a statistically significant difference in the average fare amount between customers who use credit cards and customers who use cash.
 The key business insight is that encouraging customers to pay with credit cards can generate more revenue for taxi cab drivers.
 
