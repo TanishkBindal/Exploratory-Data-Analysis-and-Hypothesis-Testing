@@ -4,6 +4,15 @@
 ## 📋 Project Overview
 This project's main goal is to run an A/B test to examine the relationship between the total fare and the method of payment. We use Python hypothesis testing and descriptive statistics to extract useful information that can help taxi drivers generate more cash. In particular, we want to find out if there is a big difference in the fares for those who pay with credit cards versus those who pay with cash.
 
+## Table of Contents
+- [ Problem Statement](#problem-statement)
+- [Tools and Technologies Used](#tools-and-technologies-used)
+- [ETL Process](#etl-process)
+- [Data Analysis](#data-analysis)
+- [Queries](#queries)
+- [Conclusion](#conclusion)
+
+
 ## 🤔 Problem Statement
 In the fast-paced taxi booking sector, making the most of revenue is essential for long-term success and driver happiness. Our goal is to use data-driven insights to maximise revenue streams for taxi drivers in order to meet this need. Our research aims to determine whether payment methods have an impact on fare pricing by focusing on the relationship between payment type and fare amount.
 
@@ -112,14 +121,14 @@ The key business insight is that encouraging customers to pay with credit cards 
 
 <br />
 
- <div align="center">
-<h1> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
-</h1> 
-<p align="center">
+<div align="left">
+<h2>Connect with me <a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
+</h2>
+<p align="left">
  
- [<img src = "https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_640.png" width ="60" height ="60" align = "center" style= "postion:relative">](https://github.com/TanishkBindal)&nbsp;&nbsp;&nbsp;&nbsp;
-[<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1024px-LinkedIn_icon_circle.svg.png" width ="60" height ="100" align = "center" style= "postion:relative">](https://www.linkedin.com/in/tanishk-bindal)
-[<img src = "https://static.vecteezy.com/system/resources/previews/066/118/531/non_2x/linktree-circle-logo-icon-linktree-app-editable-transparent-background-premium-social-media-design-for-digital-download-free-png.png" width ="90" height ="300" align = "center" style= "postion:relative">](https://linktr.ee/tanishkbindal)
+ [<img src = "https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_640.png" width ="55" height ="55" align = "center" style= "postion:relative">](https://github.com/TanishkBindal)&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1024px-LinkedIn_icon_circle.svg.png" width ="55" height ="85" align = "center" style= "postion:relative">](https://www.linkedin.com/in/tanishk-bindal)
+[<img src = "https://static.vecteezy.com/system/resources/previews/066/118/531/non_2x/linktree-circle-logo-icon-linktree-app-editable-transparent-background-premium-social-media-design-for-digital-download-free-png.png" width ="90" height ="280" align = "center" style= "postion:relative">](https://linktr.ee/tanishkbindal)
 
  
  <p align="right">(<a href="#top">Back to top</a>)</p>
